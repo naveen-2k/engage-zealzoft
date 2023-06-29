@@ -10,7 +10,7 @@ import datetime
 import string
 import uuid
 import jwt
-
+#cors
 app=Flask(__name__)
 CORS(app)
 
